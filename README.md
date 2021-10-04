@@ -5,9 +5,9 @@ Problems on Graph Data Structure and popular algorithms associated with Graphs
 ## Tasks
 
 - [ ] Theoretical concepts
-	- [x] [What is a graph?](#wat-is-a-graph)
+	- [x] [What is a graph?](#what-is-a-graph)
 	- [x] [Types of graph](#types-of-graph)
-	- [x] [Degree in a graph](#degree-in-a-graph)
+	- [x] [Degree in a graph](#degrees-in-a-graph)
 	- [x] [Path in a graph](#path-in-a-graph)
 - [ ] Problems
 - [ ] Patterns
@@ -21,7 +21,7 @@ Problems on Graph Data Structure and popular algorithms associated with Graphs
 	- Node/vertex
 	- Edge
 <p>
-	<img src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/undirectedgraph.png" width="800px" />
+	<img src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/undirectedgraph.png" width="600px" />
 </p>
 
 ---
@@ -35,7 +35,7 @@ Problems on Graph Data Structure and popular algorithms associated with Graphs
 	- There are two edges `v1v2` and `v2v1` in an undirected graph
 	- There is only one edge `v1v2` in a directed graph
 <p>
-	<img src="https://ehindistudy.com/wp-content/uploads/2015/11/wpid-differencebetween_directed_undirected_graphs1.jpg" width="800px" />
+	<img src="https://ehindistudy.com/wp-content/uploads/2015/11/wpid-differencebetween_directed_undirected_graphs1.jpg" width="600px" />
 </p>
 
 
@@ -84,8 +84,9 @@ Problems on Graph Data Structure and popular algorithms associated with Graphs
 	- The **InDegree(v2)** = 1 in the above directed graph
 	- The **OutDegree(v2)** = 1 in the above directed graph
 <p>
-	<img src="https://ehindistudy.com/wp-content/uploads/2015/11/wpid-differencebetween_directed_undirected_graphs1.jpg" width="800px" />
+	<img src="https://ehindistudy.com/wp-content/uploads/2015/11/wpid-differencebetween_directed_undirected_graphs1.jpg" width="600px" />
 </p>
+
 - **Property of Degree in an undirected graph**
 	- Total degree of nodes = 2 * Edges
 	- The total number of degree of all the **nodes** is equal to **twice of the number of all the edges** in an undirected graph
@@ -101,8 +102,9 @@ Problems on Graph Data Structure and popular algorithms associated with Graphs
 		- `v2 v1`
 		- `v3 v2`
 <p>
-	<img src="https://ehindistudy.com/wp-content/uploads/2015/11/wpid-differencebetween_directed_undirected_graphs1.jpg" width="800px" />
+	<img src="https://ehindistudy.com/wp-content/uploads/2015/11/wpid-differencebetween_directed_undirected_graphs1.jpg" width="600px" />
 </p>
+
 - **Path** in a directed graph
 	- The sequence of directed nodes/vertex such that none of the nodes are visited twice
 	- Examples:
