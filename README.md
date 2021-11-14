@@ -8,7 +8,7 @@ Problems on Graph Data Structure and popular algorithms associated with Graphs
 
 ### Day 23
 
-| Completion Status | Problems on Arrays | Explanation | Solution |
+| Completion Status | Problems on Graphs | Explanation | Solution |
 | --- | --- | --- | --- |
 | 🔃 | [Clone a graph](https://leetcode.com/problems/clone-graph/) | [Brute, Better & Optimal Approaches](#) | [Java Soultion](./src/sde_sheet/.java) |
 | 🔃 | [DFS](https://practice.geeksforgeeks.org/problems/depth-first-traversal-for-a-graph/1) | [Brute, Better & Optimal Approaches](#) | [Java Soultion](./src/sde_sheet/.java) |
@@ -24,7 +24,7 @@ Problems on Graph Data Structure and popular algorithms associated with Graphs
 
 ### Day 24
 
-| Completion Status | Problems on Arrays | Explanation | Solution |
+| Completion Status | Problems on Graphs | Explanation | Solution |
 | --- | --- | --- | --- |
 | 🔃 | [Strongly Connected Component (using KosaRaju’s algo) ](https://leetcode.com/problems/maximum-number-of-non-overlapping-substrings/discuss/766485/kosaraju-algorithm-on) | [Brute, Better & Optimal Approaches](#) | [Java Soultion](./src/sde_sheet/.java) |
 | 🔃 | [Dijkstra’s Algorithm](https://practice.geeksforgeeks.org/problems/implementing-dijkstra-set-1-adjacency-matrix/1) | [Brute, Better & Optimal Approaches](#) | [Java Soultion](./src/sde_sheet/.java) |
