@@ -2,6 +2,39 @@
 
 Problems on Graph Data Structure and popular algorithms associated with Graphs
 
+## SDE Sheet problems on Graphs
+
+[Sheet Link](https://takeuforward.org/interviews/strivers-sde-sheet-top-coding-interview-problems/)
+
+### Day 23
+
+| Completion Status | Problems on Arrays | Explanation | Solution |
+| --- | --- | --- | --- |
+| 🔃 | [Clone a graph](https://leetcode.com/problems/clone-graph/) | [Brute, Better & Optimal Approaches](#) | [Java Soultion](./src/sde_sheet/.java) |
+| 🔃 | [DFS](https://practice.geeksforgeeks.org/problems/depth-first-traversal-for-a-graph/1) | [Brute, Better & Optimal Approaches](#) | [Java Soultion](./src/sde_sheet/.java) |
+| 🔃 | [BFS](https://practice.geeksforgeeks.org/problems/bfs-traversal-of-graph/1) | [Brute, Better & Optimal Approaches](#) | [Java Soultion](./src/sde_sheet/.java) |
+| 🔃 | [Detect A cycle in Undirected Graph using BFS](https://leetcode.com/problems/course-schedule/) | [Brute, Better & Optimal Approaches](#) | [Java Soultion](./src/sde_sheet/.java) |
+| 🔃 | [Detect A cycle in Undirected Graph using DFS](https://leetcode.com/problems/course-schedule/) | [Brute, Better & Optimal Approaches](#) | [Java Soultion](./src/sde_sheet/.java) |
+| 🔃 | [Detect A cycle in a Directed Graph using DFS](https://leetcode.com/problems/course-schedule/) | [Brute, Better & Optimal Approaches](#) | [Java Soultion](./src/sde_sheet/.java) |
+| 🔃 | [Detect A cycle in a Directed Graph using BFS](https://leetcode.com/problems/course-schedule/) | [Brute, Better & Optimal Approaches](#) | [Java Soultion](./src/sde_sheet/.java) |
+| 🔃 | [Topological Sort](https://practice.geeksforgeeks.org/problems/topological-sort/1) | [Brute, Better & Optimal Approaches](#) | [Java Soultion](./src/sde_sheet/.java) |
+| 🔃 | [Number of islands (Do in Grid and Graph both)](https://leetcode.com/problems/number-of-islands/) | [Brute, Better & Optimal Approaches](#) | [Java Soultion](./src/sde_sheet/.java) |
+| 🔃 | [Bipartite Check using BFS](https://leetcode.com/problems/is-graph-bipartite/) | [Brute, Better & Optimal Approaches](#) | [Java Soultion](./src/sde_sheet/.java) |
+| 🔃 | [Bipartite Check using DFS](https://leetcode.com/problems/is-graph-bipartite/) | [Brute, Better & Optimal Approaches](#) | [Java Soultion](./src/sde_sheet/.java) |
+
+### Day 24
+
+| Completion Status | Problems on Arrays | Explanation | Solution |
+| --- | --- | --- | --- |
+| 🔃 | [Strongly Connected Component (using KosaRaju’s algo) ](https://leetcode.com/problems/maximum-number-of-non-overlapping-substrings/discuss/766485/kosaraju-algorithm-on) | [Brute, Better & Optimal Approaches](#) | [Java Soultion](./src/sde_sheet/.java) |
+| 🔃 | [Dijkstra’s Algorithm](https://practice.geeksforgeeks.org/problems/implementing-dijkstra-set-1-adjacency-matrix/1) | [Brute, Better & Optimal Approaches](#) | [Java Soultion](./src/sde_sheet/.java) |
+| 🔃 | [Bellman-Ford Algo](https://practice.geeksforgeeks.org/problems/distance-from-the-source-bellman-ford-algorithm/0/?fbclid=IwAR2_lL0T84DnciLyzMTQuVTMBOi82nTWNLuXjUgahnrtBgkphKiYk6xcyJU) | [Brute, Better & Optimal Approaches](#) | [Java Soultion](./src/sde_sheet/.java) |
+| 🔃 | [Floyd Warshall Algorithm](https://practice.geeksforgeeks.org/problems/implementing-floyd-warshall2042/1) | [Brute, Better & Optimal Approaches](#) | [Java Soultion](./src/sde_sheet/.java) |
+| 🔃 | [MST using Prim’s Algo](https://practice.geeksforgeeks.org/problems/minimum-spanning-tree/1) | [Brute, Better & Optimal Approaches](#) | [Java Soultion](./src/sde_sheet/.java) |
+| 🔃 | [MST using Kruskal’s Algo](https://practice.geeksforgeeks.org/problems/minimum-spanning-tree/1) | [Brute, Better & Optimal Approaches](#) | [Java Soultion](./src/sde_sheet/.java) |
+
+---
+
 ## Tasks
 
 - [ ] Theoretical concepts
